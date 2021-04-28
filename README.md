@@ -5,8 +5,8 @@ Data used :
 
 
 ## Plot of Vehicles miles over time dataset
-![](images/Capture d’écran 2021-04-28 à 16.06.00.png)
-![](images/493ss_thinkstock_rf_heart_anatomy_illustration.webp)
+![](./images/Capture d’écran 2021-04-28 à 16.06.00.png)
+
 ## Time series seems to be having seasonal component along with trend and residual components.
 ![](images/Capture d’écran 2021-04-28 à 16.08.00.png)
 
