@@ -1,2 +1,2 @@
 # prophetforecasting
-Permform forecasting no time series using Facebook Prophet 
+Perform forecasting no time series using Facebook Prophet 
